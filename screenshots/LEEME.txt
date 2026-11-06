@@ -1,0 +1,1 @@
+Ejecuta cargo run --release -- --screenshots para generar las siete escenas y sus siete comparaciones de capas.
